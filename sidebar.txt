@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qvi:home|Door43 (qvi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qvi|d43-qvi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qvi/archive/master.zip|d43-qvi.zip]]
+
+**Recent Changes**
+{{changes>ns = qvi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qvi|Ethnologue data]]
+
